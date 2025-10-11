@@ -28,7 +28,7 @@
 
     foreach($colors as $color) {
         echo "<div style='background-color: " . $color['Hex'] . "; padding: 20px; margin: 10px; color: white; text-align: center;'>" . $color['Name'] . " - " . $color['Hex'] . "</div>";
-
+        
     }
 
 
